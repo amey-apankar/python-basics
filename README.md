@@ -24,7 +24,7 @@ Each file is beginner-friendly, readable, and kept simple for easy understanding
 
 - To improve my Python skills through real practice
 - To stay consistent and build confidence
-- To document my growth as a self-learner
+- To document my growth as a passionate learner
 
 If you're also learning Python, feel free to check out the code, fork it, or suggest improvements!
 
